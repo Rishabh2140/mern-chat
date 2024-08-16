@@ -1,0 +1,8 @@
+# Ignore node_modules directory
+api/node_modules/
+
+# Ignore .env file
+api/.env
+
+api/yarn.lock
+client/node_modules/
